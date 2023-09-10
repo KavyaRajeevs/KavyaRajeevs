@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavya R</h1>
-<h3 align="center">A passionate college student from Kerala</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyarajeevs&label=Profile%20views&color=0e75b6&style=flat" alt="kavyarajeevs" /> </p>
 
