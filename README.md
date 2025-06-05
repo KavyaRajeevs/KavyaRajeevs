@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyarajeevs&label=Profile%20views&color=0e75b6&style=flat" alt="kavyarajeevs" /> </p>
 
-<p>Hello! I'm Kavya, a 3rd-year CSE undergraduate student with a keen focus on front-end development. I'm dedicated to mastering the art of crafting engaging user interfaces using HTML, CSS, and JavaScript, and enthusiastic about tackling challenging coding tasks.
+<p>Hello! I'm Kavya, a final year CSE undergraduate student with a keen focus on front-end development. I'm dedicated to mastering the art of crafting engaging user interfaces using HTML, CSS, and JavaScript, and enthusiastic about tackling challenging coding tasks.
 
 </p>
 
